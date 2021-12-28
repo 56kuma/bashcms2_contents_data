@@ -1,0 +1,115 @@
+posts/template  title
+posts/template Write contents here.
+posts/20200919_negi  ネギネギネギ ねぎねぎねぎ
+posts/20200919_negi - らーめんらーめんらーまんらーめんラーメン
+posts/20200919_negi  [白ネギへジャンプ](#white)
+posts/20200919_negi  青ネギ
+posts/20200919_negi ![青ネギ](./green_negi.jpg)
+posts/20200919_negi  <span id="white">白ネギ</span>
+posts/20200919_negi ![](white_negi.jpg)
+posts/20200919_negi  ドキュメント
+posts/20200919_negi [ねぎ.pdf](ねぎ.pdf)
+posts/20200919_negi [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE)
+pages/template  title
+pages/template Write contents here.
+pages/top  Top
+pages/top 日々の出来事の中で、何を思ったかを言葉として、文章として残したいという願望からこのブログを始めました。
+pages/top 好きなことは↓の３つなので、このあたりのネタが中心となります。
+pages/top  本を読むこと（マンガ含む）
+pages/top  サッカー
+pages/top  プログラミング（によって何かを楽にすること）
+posts/20210704_vscode_shortcut  VSCode ショートカット
+posts/20210704_vscode_shortcut ショートカット一覧の表示
+posts/20210704_vscode_shortcut > Ctrl + k ⇒ Ctrl + s
+posts/20210704_vscode_shortcut ターミナルを開く
+posts/20210704_vscode_shortcut > ctrl + @
+posts/20210704_vscode_shortcut Explorer ⇔ ファイル編集
+posts/20210704_vscode_shortcut > Ctrl + Shift + E
+posts/20210704_vscode_shortcut 矩形選択
+posts/20210704_vscode_shortcut > Ctrl + Alt ⇒ 上下矢印
+posts/20210704_vscode_shortcut 分割
+posts/20210704_vscode_shortcut > Ctrl + \
+posts/20210704_vscode_shortcut コードの折り畳み
+posts/20210704_vscode_shortcut > Ctrl + Shift + [
+posts/20210704_vscode_shortcut コードの展開
+posts/20210704_vscode_shortcut > Ctrl + Shift + ]
+posts/20210704_vscode_shortcut 選択行をコピー&ペースト
+posts/20210704_vscode_shortcut > Ctrl + Alt + ↓
+posts/20210704_Excel_shortcut  Excel ショートカット
+posts/20210704_Excel_shortcut 形式を選択して貼り付け
+posts/20210704_Excel_shortcut > Ctrl + Alt + v
+posts/20210704_Excel_shortcut シートの追加
+posts/20210704_Excel_shortcut > Alt + i -> w
+posts/20210704_Google_Voice_Typing  Google音声入力
+posts/20210704_Google_Voice_Typing  Frequently used
+posts/20210704_Google_Voice_Typing 音声入力の開始/停止
+posts/20210704_Google_Voice_Typing > Ctrl + Shift + s
+posts/20210704_Google_Voice_Typing Input「改行」
+posts/20210704_Google_Voice_Typing > 「新しい改行」
+posts/20210704_Google_Voice_Typing Input「、」
+posts/20210704_Google_Voice_Typing > 「とうてん」
+posts/20210704_Wife_Instraction_manual  妻のトリセツ
+posts/20210704_Wife_Instraction_manual  女性脳の最も大きな特徴は共感欲求が高いこと。感情をトリガーに記憶を呼び起こす。わかるわかると共感してもらえることで過剰なストレス信号が沈静化するという機能があるからだ。
+posts/20210704_Wife_Instraction_manual > 男性はここで正論を開始がち、こうしたらいいじゃんとか。 正論を突きつけることは心を否定すること。
+posts/20210704_Wife_Instraction_manual  女性は共感されるとストレスが解消される脳の持ち主なので、共感こそが相手の脳への最大のプレゼントなのである。
+posts/20210704_Wife_Instraction_manual > こうすれば良いというアドバイスは不要。共感の言葉を投げかけることが大事。
+posts/20210704_Wife_Instraction_manual  名もなき家事の一例として、ゴミ捨ての一連タスクをあげる。ゴミをゴミ捨て場に出すことだけが、ゴミ出しではない。
+posts/20210704_Wife_Instraction_manual > 指定の曜日に、指定のゴミを、指定の場所に、指定の時間までに捨てる必要があり、ゴミ箱には新しいゴミ袋をセットするという、いくつもの判断が伴うタスク。
+posts/20210704_Wife_Instraction_manual  女性は相手のセンスを認めていなかったら最終確認にも使わない
+posts/20210704_Wife_Instraction_manual > 「どっちが良い？」と尋ねられるのは、センスの信頼があるから。
+posts/20210704_Wife_Instraction_manual  女性脳は察する力が大きい、これは赤ん坊を育てるため。
+posts/20210704_Wife_Instraction_manual > 言葉を話せない赤ちゃんの意図を、表情やボディランゲージから汲み取るわけだから納得。
+posts/20210704_Wife_Instraction_manual  男性は比較された中での市場が好き、女性は唯一無二でありたい。
+posts/20210704_Wife_Instraction_manual > 男性は所属するグループなど、関係を持っている人間関係の中で自身の立ち位置を比較する。
+posts/20210704_Husband_Instraction_manual  夫のトリセツ
+posts/20210704_Husband_Instraction_manual > 目的志向の言葉だけだったら対話法が成熟しないまま大人になってしまう。しかし多くの日本の家庭がそうしている。
+posts/20210704_Husband_Instraction_manual >「なんで○○するわけ？」という言っても埒が明かないセリフを言うな。
+posts/20210704_Husband_Instraction_manual  自分が何か失態をしてこの言葉をかけられたらどう思うか？起きた後にそんな正論を言われてもねえ。何にもできないし。もっと先に行ってくれよ。ではないでしょうか？
+posts/20210704_Husband_Instraction_manual > 脳は生存可能性が下がると緊張しストレスを感じ、生存可能性が上がると緊張を解くストレスから解放される。
+posts/20210704_Husband_Instraction_manual > 男の子や後に理系やアートの領域で活躍する女の子は日常はかなりぼんやりして見える。
+posts/20210704_Husband_Instraction_manual > ぼんやりしている間に空間認知力を研ぎ澄ませているからだ。
+posts/20210704_Husband_Instraction_manual > 空間認知を司る小脳の発達臨界期（昨日が取り揃ってしまう時期）の八歳までに、どれだけぼんやりできたかで後の理系への力が決まると言えるかもしれない。
+posts/20210704_Husband_Instraction_manual > 人は脳の緊張を解いてくれる相手を心地よいと感じ脳を緊張させられては不快に思うものだ。
+posts/20210704_Husband_Instraction_manual  話の流れがわからないと、断片情報の繋ぎ合わせにエネルギーを使うから、このことはよくわかる。
+posts/20210704_Husband_Instraction_manual > 頭に浮かんだことを浮かんだ順にベラベラ喋り続けると、脳が過去のを再体験してそこから新たな気づきがあるからだ。
+posts/20210704_Husband_Instraction_manual  とりとめない順不同に話にも意味はある。
+posts/20210704_Husband_Instraction_manual > 男性脳はちょっと気があると音声認識機能を停止させてしまうとき書いた。相手の音声がモスキート音のように聞こえてくると。
+posts/20210704_Husband_Instraction_manual  そう考えると、男性と話をする場合は、まずは注意をひきつける。
+posts/20210704_Husband_Instraction_manual > 男性のはゴール指向。まずは結論を言う。詳細説明はポイント数を話す。
+posts/20210704_Husband_Instraction_manual > カサンドラ症候群はアスペルガー症候群の人のそばにいるものに起こる症状の呼び名である。自己肯定感の低下、不眠、偏頭痛、パニック障害などが挙げられる
+posts/20210704_Husband_Instraction_manual > 男性は壁を背にして座ると店全体を眺めことになる。男性の目線は店全体泳ぎ扉を開けて入ってきた女性やウェイトレスに結構しっかりと昇順を合わせてしまう。
+posts/20210704_Husband_Instraction_manual > ビジネスシーンではやる気があるかどうかよりやる気があるように見せる方が大事。自分を演出することが大切
+posts/20210704_Husband_Instraction_manual > 感性トレンド、脳の周期性に則って体臭全体の完成は28年で真逆になり56年で元の位置に戻る。
+posts/20210704_Husband_Instraction_manual > つらい一日を過ごした後の女性が欲しがっているのは正論じゃなくて共感とねぎらいそれさえあれば今日1日が無駄じゃなかったと思えるからだ。
+posts/20211009_Excel_Search_Replace  Excel 検索 / 置換
+posts/20211009_Excel_Search_Replace  "*"を文字として認識させるには、"~"をつける。
+posts/20211009_Excel_Search_Replace > ~*
+posts/20211009_Git_Command  Git Command
+posts/20211009_Git_Command 変更ファイルがあるかの確認
+posts/20211009_Git_Command > git status
+posts/20211009_Git_Command ブランチの切り替え
+posts/20211009_Git_Command > git checkout [ブランチ名]
+posts/20211009_Git_Command Staging 環境への以降
+posts/20211009_Git_Command > git add ./
+posts/20211009_Git_Command コミット
+posts/20211009_Git_Command  -m ：message, コミットメッセージの付与
+posts/20211009_Git_Command > git commit
+posts/20211009_Git_Command リモートリポジトリへプッシュ
+posts/20211009_Git_Command > git push
+posts/20211027_Uchida_Mental  ウチダメンタル 心の幹を太くする術
+posts/20211027_Uchida_Mental  ■概要
+posts/20211027_Uchida_Mental  元サッカー日本代表選手である内田篤人が、プロとして過ごしてきた中で培った自身のメンタルの在り方を綴っている。
+posts/20211027_Uchida_Mental  個人的には、中田英寿との対談が印象に残った。中田さんのメンタルは外国人気質であること。あと、中田選手が29歳という若さでプロサッカー選手を引退した理由をこの本で始めて知れた。
+posts/20211027_Uchida_Mental  ■心に止まった部分
+posts/20211027_Uchida_Mental > 振れ幅を極力減らす。
+posts/20211027_Uchida_Mental > 太い心の幹を作る。
+posts/20211027_Uchida_Mental > 心の振れ幅が大きい人は、上下しない人に比べて感情を入れすぎる傾向がある。
+posts/20211027_Uchida_Mental  体感として、振れ幅が大きいと、精神的疲労が増える。よりブレないためにも、支柱となる幹が太いほうが良い。
+posts/20211027_Uchida_Mental > 頭を強くしないと、トレーニングは頭を鍛えて意思の限界を引き延ばしてあげることにある。
+posts/20211027_Uchida_Mental > きついトレーニングを継続することで頭が鍛えられ、結果仕事で疲れたと思うことは無いし、きついと感じることも無い。
+posts/20211027_Uchida_Mental > 考えることは持って生まれた能力ではなく、誰にでもできる。脳というのはどこまでも追い込める。
+posts/20211027_Uchida_Mental  上記はウッチーと中田ヒデとの対談で、ヒデが語ったこと。本人は「自分自身は決して上手い選手ではなかった。ただ、相手を出し抜くにはどうすれば良いかを考え続けた。」とも語っている。
+posts/20211027_Uchida_Mental  考えることは誰にでもできること。ただ、それを突き詰めれば、時には自分の長所になり、武器になる。それを中田選手は体現している。
+posts/20211027_Uchida_Mental  ■突き詰めるとは？
+posts/20211027_Uchida_Mental  その分野において、他の誰よりも知識があること。パッと思いつく言葉はこれだ。ただ、知識を持っているだけでそれを使えなければ宝の持ち腐れであり、中田選手のように活躍はできないだろう。
+posts/20211027_Uchida_Mental  「突き詰める」ことで、自分の武器を持ちたいが、じゃあなにを「突き詰める」？　それはやっていて楽しいと思えることで良いのではないか。楽しい/楽しくないは実際にやってみることでしかわからないから、未経験のことをやるチャンスがあればまずは飛び込んでみる。失敗する、つまらない等の負の感情は脇に置いておいて動いてみるか。
